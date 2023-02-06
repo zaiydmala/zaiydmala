@@ -14,10 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
+[https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zaiydmala&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zaiydmala&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&mode=weekly&dates=EB5454)](https://git.io/streak-stats)
+
+
