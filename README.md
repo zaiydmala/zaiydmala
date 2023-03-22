@@ -26,4 +26,4 @@
 #
 
 ### Portfolio
- [website](https://zaiydmala.vercel.app)
+ [Take a stroll](https://zaiydmala.vercel.app)
