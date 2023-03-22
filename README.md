@@ -3,7 +3,7 @@
 <p align="center">I'm Zaiyd.</p>
 <p align="center">Web Front End Developer</p>
 <p align="center">Connect with me on:</p>
-<p align="center">[LinkedIn](https://linkedin.com/in/zaiyd-mala)</p>
+[LinkedIn](https://linkedin.com/in/zaiyd-mala)
 
 
 <!--
